@@ -51,46 +51,47 @@ I am a skilled Azure Developer, Azure DevOps and  Azure administrator with exper
 - 💞️ I am looking to collaborate on AI or Autonomous car projects.
 
 ## Technologies and tools used
-| Front - End  | Banck-End  | DevOps  | Admin
-| :------------: | :------------: | :------------: |
-|Angular 2|.NET CORE(2.1,2.2,3.1,and 6.0)|Application Insights|Advisor
-|ASPX|.NET Framework(3.5, 4.6 and 4.8)|Automation Account|Application Gateway
-|Bootstrap|API Management service|Azure CLI|Azure Active Directory
-|BootstrapVue|API Rest|Azure DevOps|Azure DDoS Protection
-|CSS3|App Service|Azure Monitor|Azure DNS
-|Flutter|ASP Classic|Bitbucket|Azure EA portal
-|HTML5|Azure Cognitive Services|CI/CD|Azure ExpressRoute
-|jQuery|Azure Container instance|Git|Azure Firewall
-|Razor|Azure Container Registry|GitLab|Azure Front Door
-|Vue JS|Azure Data Factory|ISS|Azure Migrate
-|   |Azure Functions|Jenkins|Azure Policy
-|   |Azure KeyVaul|JMeter|Cost Managementand Billing
-|   |Azure Logic app|Kubernetes |Governance
-|   |Azure Maps|Load Balancer|Microsoft Defender for Cloud
-|   |Azure SQL Database|SonarQube|Mictosoft Azure
-|   |Azure Storage account|Terraform|Site Recovery
-|   |C#|WhiteSource Bolt|Virtual Machine
-|   |Cache for Redis|YALM|Virtual network
-|   |CDN (Content Delivery Network ) |   |VPN   
-|   |Dapper|   |   
-|   |Docker|   |   
-|   |Firebase|   |   
-|   |JavaScript|   |   
-|   |Json|   |    
-|   |MATLAB|   |   
-|   |Microservices|   |   
-|   |MongoDB|   |   
-|   |MVC|   |    
-|   |MySql|   |   
-|   |Node JS|   |   
-|   |OAuth2.0.|   |   
-|   |Oracle 11g|   |   
-|   |PHP|   |   
-|   |Service Bus|   |   
-|   |SignalR|   |   
-|   |SOAP|   |   
-|   |SQL Server(2000,2005,2008R2,2012)|   |   
-|   |Visual Basic|   |   
-|   |XML|   |   
+
+| Front-End | Banck-End | DevOps | Admin |
+| -----| ------- | ----- |----- |
+|Angular 2|.NET CORE(2.1,2.2,3.1,and 6.0)|Application Insights|Advisor|
+|ASPX|.NET Framework(3.5, 4.6 and 4.8)|Automation Account|Application Gateway|
+|Bootstrap|API Management service|Azure CLI|Azure Active Directory|
+|BootstrapVue|API Rest|Azure DevOps|Azure DDoS Protection|
+|CSS3|App Service|Azure Monitor|Azure DNS|
+|Flutter|ASP Classic|Bitbucket|Azure EA portal|
+|HTML5|Azure Cognitive Services|CI/CD|Azure ExpressRoute|
+|jQuery|Azure Container instance|Git|Azure Firewall|
+|Razor|Azure Container Registry|GitLab|Azure Front Door|
+|Vue JS|Azure Data Factory|ISS|Azure Migrate|
+|   |Azure Functions|Jenkins|Azure Policy|
+|   |Azure KeyVaul|JMeter|Cost Managementand Billing|
+|   |Azure Logic app|Kubernetes |Governance|
+|   |Azure Maps|Load Balancer|Microsoft Defender for Cloud|
+|   |Azure SQL Database|SonarQube|Mictosoft Azure|
+|   |Azure Storage account|Terraform|Site Recovery|
+|   |C#|WhiteSource Bolt|Virtual Machine|
+|   |Cache for Redis|YALM|Virtual network|
+|   |CDN (Content Delivery Network ) |   |VPN|
+|   |Dapper|   |   |
+|   |Docker|   |   |
+|   |Firebase|   |   |
+|   |JavaScript|   |   |
+|   |Json|   |    |
+|   |MATLAB|   |   |
+|   |Microservices|   |   |
+|   |MongoDB|   |   |
+|   |MVC|   |    |
+|   |MySql|   |   |
+|   |Node JS|   |   |
+|   |OAuth2.0.|   |   |
+|   |Oracle 11g|   |   |
+|   |PHP|   |   |
+|   |Service Bus|   | |  
+|   |SignalR|   |   |
+|   |SOAP|   |   |
+|   |SQL Server(2000,2005,2008R2,2012)|   |   |
+|   |Visual Basic|   |   |
+|   |XML|   |   |
 
 
