@@ -39,7 +39,8 @@ I am a skilled Azure Developer, Azure DevOps and  Azure administrator with exper
  - **Microsoft Certified**: Azure Fundamentals: AZ-900.
  - **Microsoft Certified**: Azure Developer Associate: AZ-204.
  - **Microsoft Certified**: DevOps Engineer Expert: AZ-400.
- #[Check my credly](https://www.credly.com/users/luis-jarpa/badges)
+
+#[Check my credly](https://www.credly.com/users/luis-jarpa/badges)
 
 ## Education 
   - **Degree** in *Computer Engineering*, *Technological University of Chile INACAP* (2014)
